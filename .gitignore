@@ -1,0 +1,10 @@
+.idea/
+logs/
+**/target/
+/notes/
+/archive/
+application.properties
+*.gz
+*.tmp
+*.bak
+*.ini
