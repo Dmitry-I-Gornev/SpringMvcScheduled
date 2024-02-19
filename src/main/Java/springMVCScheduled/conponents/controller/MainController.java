@@ -25,7 +25,7 @@ public class MainController {
         var s = "mainPage method is running";
         log.info(s);
         System.out.println(s);
-        return "main.jsp";
+        return "main";
     }
 
     @RequestMapping(path = "/")
